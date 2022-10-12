@@ -1,0 +1,126 @@
+
+body { background-image: url(bg.png);}
+
+.sub
+{position: absolute;
+width: 692px;
+height: 110px;
+left: 10px;
+top: 80px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 30px;
+line-height: 182px;
+
+color: #FFFFFF;}
+
+
+.head {font-size: 70;
+    position: absolute;
+width: 692px;
+height: 110px;
+left: 67px;
+top: 514px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 150px;
+line-height: 182px;
+
+color: #FFFFFF;
+
+  
+    
+
+    
+
+    font-family:@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+    .opensans {font-family: "Open Sans", sans-serif;} 
+    
+
+       
+}
+
+
+
+
+.low {
+    position: absolute;
+    width: 220px;
+    height: 90px;
+    left: 918px;
+    top: 600px;
+
+    text-align: middle;
+    font-size: 20;
+}
+
+.high {
+    position: absolute;
+    width: 220px;
+    height: 90px;
+    left: 1168px;
+    top: 600px;
+
+    text-align: middle;
+    font-size: 20;
+}
+
+
+.button {
+    position: absolute;
+    width: 220px;
+    height: 69px;
+    left: 580px;
+    top: 571px;
+    text-align: middle;
+      
+}
+    
+
+.button-9 {
+  appearance: button;
+  backface-visibility: hidden;
+  background-color: #405cf5;
+  border-radius: 6px;
+  border-width: 0;
+  box-shadow: rgba(50, 50, 93, .1) 0 0 0 1px inset,rgba(50, 50, 93, .1) 0 2px 5px 0,rgba(0, 0, 0, .07) 0 1px 1px 0;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  font-family: -apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Ubuntu,sans-serif;
+  font-size: 100%;
+  height: 44px;
+  line-height: 1.15;
+  margin: 12px 0 0;
+  outline: none;
+  overflow: hidden;
+  padding: 0 25px;
+  position: relative;
+  text-align: center;
+  text-transform: none;
+  transform: translateZ(0);
+  transition: all .2s,box-shadow .08s ease-in;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: 20%;
+  position: absolute;
+width: 300px;
+height: 50px;
+left: 400px;
+top: 120px;
+
+}
+
+.button-9:disabled {
+  cursor: default;
+}
+
+.button-9:focus {
+  box-shadow: rgba(50, 50, 93, .1) 0 0 0 1px inset, rgba(50, 50, 93, .2) 0 6px 15px 0, rgba(0, 0, 0, .1) 0 2px 2px 0, rgba(50, 151, 211, .3) 0 0 0 4px;
+}
+
