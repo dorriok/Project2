@@ -1,4 +1,24 @@
 
+
+
+
+
+
+.back { 
+
+    padding-left: 59px;
+    padding-top: 30px;
+    text-decoration: white;
+    width: 20px;
+    font-size: 30;
+    color: black ;
+    
+    border-radius: 20px;
+    
+padding-bottom: 0%;
+
+}
+
 .parent {position: relative;
         top: 0;
         left: 0;}
@@ -166,7 +186,7 @@
     bottom: 5%;
     left: 170%;
     right: 50%;
-    background-color: rgb(255, 0, 0);
+    background-color: rgba(168, 1, 1, 1);
     padding: .5em;
     min-width: 50rem;}
 
@@ -192,7 +212,8 @@
     bottom: 5%;
     left: 170%;
     right: 50%;
-    background-color: rgb(255, 0, 0);
+    background-color: rgba(168, 1, 1, 1);
+    color: white;
     padding: .5em;
     min-width: 50rem;}
 
@@ -231,7 +252,8 @@
     bottom: 5%;
     left: 170%;
     right: 50%;
-    background-color: rgb(255, 0, 0);
+    background-color: rgba(168, 1, 1, 1);
+    color: white;
     padding: .5em;
     min-width: 50rem;}
 
@@ -245,6 +267,7 @@
     left: 170%;
     right: 50%;
     background-color: rgb(129, 170, 195);
+    color: white;
     padding: .5em;
     min-width: 50rem;}
 
@@ -257,7 +280,8 @@
     bottom: 5%;
     left: 170%;
     right: 50%;
-    background-color: rgb(255, 0, 0);
+    background-color: rgba(168, 1, 1, 1);
+    color: white;
     padding: .5em;
     min-width: 50rem;}
 
@@ -270,15 +294,35 @@
     bottom: 5%;
     left: 170%;
     right: 50%;
-    background-color: rgb(255, 0, 0);
+    color: white;
+    background-color: rgba(168, 1, 1, 1);
     padding: .5em;
-    min-width: 50rem;
-     ;
+    
+    min-width: 50rem;}
+    
+.e10:hover .hide10 {display: block;}
+
+.next {
+    margin-top: 20px;
+    padding-left: 500px;
+    padding-top: 30px;
+    text-decoration: white;
+    width: 20px;
+    font-size: 30;
+    color: black ;
+    
+    border-radius: 20px;
+    
+padding-bottom: 0%;
 
 }
 
-.e10:hover .hide10 {display: block;}
 
-
-
+.sanjanavid {
+    position: relative;
+    left: 170%;
+    right: 50%;
+    top: 30%;
+    
+}
 
